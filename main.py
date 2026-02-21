@@ -1,10 +1,10 @@
 # AIM: Task List Manager
 # Coder:
 # Date:
-
 print("--- Task List Manager ---")
 tasks = ["Sleep", "Getup", "Brush"]
 print(f"Original Tasks: {tasks}")
+
 
 # Write your code here
 # TODO: Add & Print new Task from user
